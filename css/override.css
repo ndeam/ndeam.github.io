@@ -5,3 +5,11 @@
 .navbaroveride {
   background-color: #807533;
 }
+
+.containeroverride {
+  background-color: #ebd1b8;
+}
+
+.jumbotronoverride {
+  background-color: #d39600;
+}
