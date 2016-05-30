@@ -8,9 +8,10 @@
 
 .containeroverride {
   background-color: #ebd1b8;
-  margin-top: 5em;
+  margin-top: 3em;
 }
 
 .jumbotronoverride {
   background-color: #d39600;
+  margin-top: 1em;
 }
