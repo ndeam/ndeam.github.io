@@ -20,6 +20,11 @@
   margin-bottom: 1em;
 }
 
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: auto;
+    height: 40em;
+}
+
 .welloverride {
   background: #d39600;
 }
