@@ -21,8 +21,8 @@
 }
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
-    width: auto;
-    height: 20em;
+    width: 640px;
+    height: 360px;
 }
 
 .welloverride {
